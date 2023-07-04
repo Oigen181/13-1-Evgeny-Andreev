@@ -2,7 +2,7 @@
 
 ---
 
-Список разрешенных TCP служб SERVICE
+Список разрешенных UDP служб SERVICE
 
 ![1](https://github.com/Oigen181/13-1-Evgeny-Andreev/assets/126493876/bdb2a023-3b22-4402-bc5a-d2bbbcf50940)
 
